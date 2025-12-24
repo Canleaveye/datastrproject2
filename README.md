@@ -1,3 +1,3 @@
-# Hello-Git
-my se
-哈哈哈
+# project2
+**基于STL框架实现的应用程序**
++ first分支：把一堆组员的代码先提交上来
